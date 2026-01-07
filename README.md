@@ -1,4 +1,5 @@
 <div align= "center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:deccff,100:f5ffad&height=120&text=kdotu's%20github&animation=&fontColor=40364e&fontSize=40" />
 </div>
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About </h2>  

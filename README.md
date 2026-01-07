@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ksa8023&theme=cold)
 
 <!--
 **kdotu/kdotu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
